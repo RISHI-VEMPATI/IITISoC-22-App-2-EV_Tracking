@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EVT</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="driver">DRIVER</string>
+    <string name="student">STUDENT</string>
+    <string name="todo">TODO</string>
+    <string name="student_login">STUDENT LOGIN</string>
+    <string name="password">Password</string>
+    <string name="user_id">User_ID</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_yet">don\'t have an account yet?</string>
+    <string name="register">register</string>
+    <string name="Password">Password</string>
+    <string name="don_t_have_an_account_yet2">Don\'t have an account yet?</string>
+    <string name="register2">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login2">LOGIN</string>
+    <string name="Password2">Password</string>
+    <string name="user_id2">User_ID</string>
+    <string name="student_register">STUDENT REGISTER</string>
+    <string name="driver_register">DRIVER REGISTER</string>
+    <string name="user_id3">User_ID</string>
+    <string name="driver_login">Driver_login</string>
+    <string name="user_id4">User_id</string>
+    <string name="register3">Register</string>
+    <string name="todo2">TODO</string>
+</resources>

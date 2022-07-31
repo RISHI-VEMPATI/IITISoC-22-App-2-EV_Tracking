@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_driverlogin.xml" value="0.30480072463768115" />
+        <entry key="app/src/main/res/layout/activity_drivermode.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_driverregister.xml" value="0.15602836879432624" />
+        <entry key="app/src/main/res/layout/activity_driverregistration.xml" value="0.30480072463768115" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.30480072463768115" />
+        <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.30480072463768115" />
+        <entry key="app/src/main/res/layout/activity_student_login.xml" value="0.30480072463768115" />
+        <entry key="app/src/main/res/layout/activity_studentregister.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

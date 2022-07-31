@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996334987521",
+    "project_id": "ev-tracking-43d68",
+    "storage_bucket": "ev-tracking-43d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996334987521:android:3a59753e69d8b3b6b51300",
+        "android_client_info": {
+          "package_name": "com.example.evt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996334987521-uojv5updk4lh07c5eund8cpkf0c9lsv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evt",
+            "certificate_hash": "2c9ac67bf85485be5b144ae2f769148754c2b416"
+          }
+        },
+        {
+          "client_id": "996334987521-44jib9kpsr53bj5rtrajd7rmct1h0cgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZEYbShuEC-iuENYMzQiZlL4m9MucpOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996334987521-44jib9kpsr53bj5rtrajd7rmct1h0cgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
